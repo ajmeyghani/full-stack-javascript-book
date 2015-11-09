@@ -1,4 +1,3 @@
-# Vex
+# {{ book.title }}
 
->{{ book.title }}
  
