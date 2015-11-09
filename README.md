@@ -1,3 +1,3 @@
 # Vex
 
-Full-stack JavaScript Development.
+Become a Full-stack JavaScript Developer.
