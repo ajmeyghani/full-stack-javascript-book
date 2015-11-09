@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [The JavaScript Ninja](javascript/js-intro.md)
    * [Functions and Closures](javascript/closures.md)
+   * Functional Programming
 * [Client](client/client-intro.md)
    * [Angular](client/angular.md)
 * [Server](server/server-intro.md)
