@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * JavaScript
+   * Closures
 * [Client](client/client-intro.md)
    * [Angular](client/angular.md)
 * [Server](server/server-intro.md)
