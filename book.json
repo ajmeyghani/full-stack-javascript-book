@@ -3,5 +3,8 @@
         "exercises",
         "codeex"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {},
+    "variables": {
+        "host": "mybook.com"
+    }
 }
