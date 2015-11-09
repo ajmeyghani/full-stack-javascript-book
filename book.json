@@ -1,7 +1,5 @@
 {
-    "plugins": [
-        "exercises"
-    ],
+    "plugins": [],
     "pluginsConfig": {},
     "variables": {
         "host": "mybook.com"
