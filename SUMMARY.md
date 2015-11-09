@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [JavaScript](javascript/intro-javascript.md)
+* [JavaScript](javascript/js-intromd)
    * [Closures](javascript/closures.md)
 * [Client](client/client-intro.md)
    * [Angular](client/angular.md)
