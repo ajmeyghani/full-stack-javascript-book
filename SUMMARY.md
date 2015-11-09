@@ -10,6 +10,7 @@
        * [MongoDB](server/databases/mongodb.md)
        * [CouchDB](server/databases/couchdb.md)
        * [Mysql](server/databases/mysql.md)
+       * Sequelize
    * [Containers and Virtualizations](server/containers_and_virtualizations.md)
        * [Docker](server/docker.md)
 
