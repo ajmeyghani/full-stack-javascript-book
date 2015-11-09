@@ -1,4 +1,4 @@
 # Client
 
-In the world of JavaScript development, the client usually refers to the browser.
+In the world of JavaScript development, the client generally refers to the browser.
 
