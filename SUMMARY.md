@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [The JavaScript Ninja](javascript/js-intro.md)
-   * [Closures](javascript/closures.md)
+   * [Functions and Closures](javascript/closures.md)
 * [Client](client/client-intro.md)
    * [Angular](client/angular.md)
 * [Server](server/server-intro.md)
