@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "exercises",
-        "codeex"
+        "exercises"
     ],
     "pluginsConfig": {},
     "variables": {
