@@ -4,5 +4,5 @@
 * [Client](client/client-intro.md)
    * [Angular](client/angular.md)
 * [Server](server/server-intro.md)
-   * Databases
+   * [Databases](server/databases/databases-intro.md)
 
