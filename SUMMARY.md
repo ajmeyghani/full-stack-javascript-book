@@ -6,6 +6,7 @@
    * [Functional Programming](javascript/functional_programming.md)
 * [Client](client/client-intro.md)
    * [Angular](client/angular.md)
+   * React
 * [Server](server/server-intro.md)
    * [Databases](server/databases/databases-intro.md)
        * [MongoDB](server/databases/mongodb.md)
