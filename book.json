@@ -2,6 +2,6 @@
     "plugins": [],
     "pluginsConfig": {},
     "variables": {
-        "host": "mybook.com"
+        "title": "Full-stack JavaScript Development"
     }
 }
