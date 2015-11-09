@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [The JavaScript Ninja](javascript/js-intro.md)
    * [Functions and Closures](javascript/closures.md)
-       * Closure Exercise
+       * [Closure Exercise](javascript/closure_exercise.md)
 * [Client](client/client-intro.md)
    * [Angular](client/angular.md)
 * [Server](server/server-intro.md)
