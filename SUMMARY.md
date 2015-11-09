@@ -11,6 +11,6 @@
        * [CouchDB](server/databases/couchdb.md)
        * [Mysql](server/databases/mysql.md)
        * [Sequelize](server/databases/sequelize.md)
-   * [Containers and Virtualizations](server/containers_and_virtualizations.md)
+   * [Containers](server/containers_and_virtualizations.md)
        * [Docker](server/docker.md)
 
