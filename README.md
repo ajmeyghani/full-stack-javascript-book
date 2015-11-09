@@ -1,3 +1,3 @@
 # Vex
 
-Topics on full-stack JavaScript development.
+Full-stack JavaScript Development.
