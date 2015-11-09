@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [The JavaScript Ninja](javascript/js-intro.md)
+* [JavaScript](javascript/js-intro.md)
    * [Functions and Closures](javascript/closures.md)
    * [Functional Programming](javascript/functional_programming.md)
 * [Client](client/client-intro.md)
