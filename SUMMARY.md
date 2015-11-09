@@ -6,4 +6,5 @@
 * [Server](server/server-intro.md)
    * [Databases](server/databases/databases-intro.md)
        * [MongoDB](server/databases/mongodb.md)
+       * CouchDB
 
