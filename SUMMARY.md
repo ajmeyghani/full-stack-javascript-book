@@ -5,7 +5,7 @@
    * [Functions and Closures](javascript/closures.md)
    * [Functional Programming](javascript/functional_programming.md)
 * [Client](client/client-intro.md)
-   * [Angular](client/angular.md)
+   * [Angular](client/angular/angular.md)
        * [Angular Architecture](client/angular/angular_architecture.md)
    * [Reactjs](client/react.md)
 * [Server](server/server-intro.md)
