@@ -19,5 +19,5 @@
        * [Sequelize](server/databases/sequelize.md)
    * [Containers](server/containers_and_virtualizations.md)
        * [Docker](server/docker.md)
-   * REPL
+   * [REPL](server/repl/repl.md)
 
