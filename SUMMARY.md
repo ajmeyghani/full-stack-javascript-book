@@ -6,7 +6,7 @@
    * [Functional Programming](javascript/functional_programming.md)
 * [Client](client/client-intro.md)
    * [Angular](client/angular/angular.md)
-       * [Angular Architecture](client/angular/angular_architecture.md)
+       * [Angular Architecture](client/angular/angular-arch.md)
    * [Reactjs](client/react.md)
 * [Server](server/server-intro.md)
    * [Databases](server/databases/databases-intro.md)
