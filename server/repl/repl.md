@@ -35,6 +35,6 @@ So far, nothing special. Now, here comes the interesting part: we are going to r
 
 var repl = require("repl");
 var replServer = repl.start({
-prompt: "App > ",
+prompt: "App > "
 });
 ```
