@@ -10,7 +10,7 @@
    * [Reactjs](client/react/react.md)
        * [flux](client/react/flux.md)
    * [Streams](client/streams.md)
-       * rxjs
+       * [rxjs](client/streams/rxjs.md)
 * [Server](server/server-intro.md)
    * [Databases](server/databases/databases-intro.md)
        * [MongoDB](server/databases/mongodb.md)
