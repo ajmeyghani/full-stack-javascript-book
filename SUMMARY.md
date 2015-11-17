@@ -9,6 +9,7 @@
        * [Angular Architecture](client/angular/angular-arch.md)
    * [Reactjs](client/react/react.md)
        * [flux](client/react/flux.md)
+   * Streams
 * [Server](server/server-intro.md)
    * [Databases](server/databases/databases-intro.md)
        * [MongoDB](server/databases/mongodb.md)
