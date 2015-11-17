@@ -41,3 +41,42 @@ replServer.context.custom = custom;
 ```
 
 Now, if you run `node main.js` you should be able to see the repl:
+
+
+```
+App > custom()
+'hello world'
+```
+
+## Summary
+
+Just to recap, your final files would look like this:
+
+`custom.js`
+
+```javascript
+module.exports = function () {
+    return 'hello world';
+};
+```
+
+`main.js`
+
+```javascript
+var custom = require('./custom');
+var repl = require("repl");
+var replServer = repl.start({
+    prompt: "App > "
+});
+replServer.context.custom = custom;
+
+```
+
+Then you can start the REPL with `node main.js` and when the REPL comes up, you can run the method:
+
+
+```
+App > custom()
+'hello world'
+```
+
