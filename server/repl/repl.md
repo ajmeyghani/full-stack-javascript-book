@@ -39,3 +39,5 @@ var replServer = repl.start({
 });
 replServer.context.custom = custom;
 ```
+
+Now, if you run `node main.js` you should be able to see the repl:
