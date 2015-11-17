@@ -7,7 +7,7 @@
 * [Client](client/client-intro.md)
    * [Angular](client/angular/angular.md)
        * [Angular Architecture](client/angular/angular-arch.md)
-   * [Reactjs](client/react.md)
+   * [Reactjs](client/react/react.md)
 * [Server](server/server-intro.md)
    * [Databases](server/databases/databases-intro.md)
        * [MongoDB](server/databases/mongodb.md)
