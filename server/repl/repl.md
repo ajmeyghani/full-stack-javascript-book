@@ -37,4 +37,5 @@ var repl = require("repl");
 var replServer = repl.start({
     prompt: "App > "
 });
+replServer.context.custom = custom;
 ```
