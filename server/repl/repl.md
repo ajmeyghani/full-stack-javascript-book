@@ -80,7 +80,7 @@ App > custom()
 'hello world'
 ```
 
-# Reference
+## Reference
 
 Adopted from Derek's [blog](http://derickbailey.com/2014/07/02/build-your-own-app-specific-repl-for-your-nodejs-app/?__s=6n2n6htgba6o5nfw3kib)
 
