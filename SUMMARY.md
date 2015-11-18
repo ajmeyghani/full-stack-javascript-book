@@ -5,7 +5,7 @@
    * [Functions and Closures](javascript/closures.md)
    * [Functional Programming](javascript/functional_programming.md)
    * [es6](javascript/es6/es6.md)
-       * generators
+       * [generators](javascript/es6/generators.md)
 * [Client](client/client-intro.md)
    * [Angular](client/angular/angular.md)
        * [Angular Architecture](client/angular/angular-arch.md)
