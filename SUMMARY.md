@@ -22,5 +22,5 @@
    * [Containers](server/containers_and_virtualizations.md)
        * [Docker](server/docker.md)
    * [REPL](server/repl/repl.md)
-   * JSON Web Token Authentication
+   * [JSON Web Token Authentication](server/auth/json_web_token_authentication.md)
 
