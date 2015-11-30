@@ -5,6 +5,8 @@ Redux uses a single store with reducers to manage state in an application. At a 
 `reducer:: state -> action -> state`
 
 
+Moreover, a dispatch function can send actions to one or more reducers to carry a state change.
+
 
 ## [Middlewares](https://medium.com/@meagle/understanding-87566abcfb7a#.b81oeuheo)
 
