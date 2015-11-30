@@ -13,6 +13,7 @@
        * [flux](client/react/flux.md)
    * [Streams](client/streams/streams.md)
        * [rxjs](client/streams/rxjs.md)
+   * State Management
 * [Server](server/server-intro.md)
    * [Databases](server/databases/databases-intro.md)
        * [MongoDB](server/databases/mongodb.md)
