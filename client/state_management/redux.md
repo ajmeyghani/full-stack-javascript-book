@@ -2,4 +2,5 @@
 
 Redux uses a single store with reducers to manage state in an application.
 
-## Middlewares
+## [Middlewares](https://medium.com/@meagle/understanding-87566abcfb7a#.b81oeuheo)
+
