@@ -10,5 +10,5 @@ Moreover, a dispatch function can send actions to one or more reducers to carry 
 
 ## [Middlewares](https://medium.com/@meagle/understanding-87566abcfb7a#.b81oeuheo)
 
-For redux middleswares, the main execution task is the store's dispatch functions.
+For redux middleswares, the main execution task is the store's dispatch function.
 
