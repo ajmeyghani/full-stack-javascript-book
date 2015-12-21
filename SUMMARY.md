@@ -26,4 +26,5 @@
    * [REPL](server/repl/repl.md)
    * [JSON Web Token Authentication](server/auth/json_web_token_authentication.md)
 * [TypeScript](typescript.md)
+   * classes
 
